@@ -1,0 +1,13 @@
+#ajax-data {
+  font-family: helvetica;
+}
+
+#sigma-index {
+  background-color: teal;
+}
+
+td {
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+}
