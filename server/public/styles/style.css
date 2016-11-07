@@ -1,13 +1,30 @@
+h1 {
+  font-family: helvetica;
+}
+
 #ajax-data {
   font-family: helvetica;
 }
 
 #sigma-index {
-  background-color: teal;
+  background-color: #1a6991;
+}
+
+#next-person {
+  padding: 10px;
+  margin: 20px 5px 30px 0;
+  border: 1px solid black;
+}
+
+#previous-person {
+  padding: 10px;
+  margin: 20px 0 30px 5px;
+  border: 1px solid black;
 }
 
 td {
   width: 30px;
   height: 30px;
   border: 1px solid black;
+  padding: 10px;
 }
